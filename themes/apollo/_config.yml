@@ -1,6 +1,7 @@
 menu:
   Blog: /
   Archive: /archives/
+  tags: /tags/
   About: /about/
   GitHub: https://github.com/dasoncheng
 
