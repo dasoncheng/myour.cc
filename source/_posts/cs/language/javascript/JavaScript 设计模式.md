@@ -1,5 +1,5 @@
 ---
-title: JavaScript 数据类型
+title: JavaScript 设计模式
 date: 2015-12-12
 categories:
   - [cs, language, javascript]
