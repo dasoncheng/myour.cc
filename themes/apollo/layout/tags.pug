@@ -1,9 +1,10 @@
 extends partial/layout
 
 block container
-  ul
-    each val, index in ['zero', 'one', 'two']
-      li= index + ': ' + val
+  //- span 分类
+  //- != list_categories()
+  span 标签
+  != list_tags()
 
 block copyright
   include partial/copyright

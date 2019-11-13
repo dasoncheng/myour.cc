@@ -1,0 +1,36 @@
+.tag-list {
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  .tag-list-item {
+    // display: flex;
+    list-style: none;
+    padding: 3px 10px;
+    margin-bottom: 5px;
+    margin-right: 2px;
+    border: 1px solid #ddd;
+    border-radius: 1020px;
+    color: #333;
+    font-size: 12px;
+    line-height: 1.5;
+    background-color: #fff;
+    transition: all 0.4s;
+    &:hover {
+      background-color: #e6e6e6;
+    }
+    .tag-list-link {
+      font-size: 13px;
+      color: #5a5a5a;
+    }
+    .tag-list-count {
+      padding: 0 5px;
+      margin-left: 5px;
+      font-size: 10px;
+      color: #fff;
+      opacity: 0.85;
+      border-radius: 10px;
+      background: #17807d;
+      cursor: default;
+    }
+  }
+}
