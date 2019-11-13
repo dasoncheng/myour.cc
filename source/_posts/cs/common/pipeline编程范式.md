@@ -1,6 +1,6 @@
 ---
-title: 装饰器的应用场景
-date: 2018-8-12
+title: Pipeline编程范式
+date: 2019-02-12
 categories:
   - [cs, common]
 tags:

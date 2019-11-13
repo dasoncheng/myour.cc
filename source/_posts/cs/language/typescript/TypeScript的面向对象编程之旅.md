@@ -1,6 +1,6 @@
 ---
 title: TypeScript的面向对象编程之旅
-date: 2018-4-12 17:52:55
+date: 2018-4-12
 categories:
   - [cs, language, typescript]
 tags:
