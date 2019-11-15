@@ -25,3 +25,7 @@ if theme.disqus
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
   script(id='dsq-count-scr' src='//#{theme.disqus}.disqus.com/count.js' async)
+
+
+if theme.utterances
+  script(src=theme.utterances.src repo=theme.utterances.repo issue-term=theme.utterances.issue_term theme=theme.utterances.theme crossorigin="anonymous" async)
