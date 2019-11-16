@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "rm db.json && hexo generate && cd public && echo 'myour.cc' > CNAME",
+    "build": "hexo generate && cd public && echo 'myour.cc' > CNAME",
     "clean": "hexo clean",
-    "deploy": "npm run build && hexo deploy",
+    "deploy": "hexo deploy",
     "server": "hexo server"
   },
   "hexo": {
