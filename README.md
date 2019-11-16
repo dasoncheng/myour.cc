@@ -19,6 +19,7 @@ hexo new page --path about/me "About me"
 
 ### 2019
 
+- 远程心电
 - (12 - 11 - 10)
 - 09 GUI 的发展历程
 - 08 运势的权重，那些勤勤恳恳的人们
