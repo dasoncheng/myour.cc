@@ -1,11 +1,14 @@
 ---
 title: TypeScript的面向对象编程之旅
-date: 2018-4-12
+date: 2018-04-22
 categories:
   - [cs, language, typescript]
 tags:
   - typescript
 ---
+
+- 封装、继承、多态
+- 接口、抽象
 
 ```ts
 class Greeter {
