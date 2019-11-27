@@ -41,7 +41,7 @@ hexo new page --path about/me "About me"
 | 2016-09-25 | JavaScript 不常见操作符       | cs, language, javascript | javascript |
 | 2016-10-23 | 反脆弱                        | life                     | life       |
 | 2016-11-20 | 编程语言歧视链                | cs, common               | language   |
-| 2016-12-25 | 风险投资于八叛徒              | life                     | life       |
+| 2016-12-25 | 风险投资和八叛徒              | life                     | life       |
 
 ### 2017
 
