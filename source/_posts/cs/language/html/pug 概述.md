@@ -1,5 +1,5 @@
 ---
-title: Pug 基础介绍
+title: Pug 概述
 date: 2016-03-20
 categories:
   - [cs, language, html]

@@ -11,4 +11,4 @@ if ga
 
 - var bd = theme.baidu
 if bd
-  script(src=bd.analytics)
+  script(src!=`https://hm.baidu.com/hm.js?${bd.analytics}`)

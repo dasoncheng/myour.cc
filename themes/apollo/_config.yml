@@ -21,6 +21,6 @@ utterances:
 # google-analytics:
 # ga: UA-xxxxxxxx-x
 baidu:
-  analytics: https://hm.baidu.com/hm.js?67cdd0b70a5050a16a58fc3901e5709a
+  analytics: 67cdd0b70a5050a16a58fc3901e5709a
 # Copyright Infomation
 startyear: 2015

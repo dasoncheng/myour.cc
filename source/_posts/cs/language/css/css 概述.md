@@ -1,5 +1,5 @@
 ---
-title: CSS 基础介绍
+title: CSS 概述
 date: 2015-09-13
 categories:
   - [cs, language, css]

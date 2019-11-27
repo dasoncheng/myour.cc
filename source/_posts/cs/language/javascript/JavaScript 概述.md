@@ -1,5 +1,5 @@
 ---
-title: JavaScript 基础介绍
+title: JavaScript 概述
 date: 2015-10-18
 categories:
   - [cs, language, javascript]

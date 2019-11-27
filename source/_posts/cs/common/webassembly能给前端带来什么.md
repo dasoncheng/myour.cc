@@ -1,5 +1,5 @@
 ---
-title: WebAssembly 能给前端带来了什么
+title: WebAssembly 能给前端带来什么
 date: 2019-08-18
 categories:
   - [cs, common]
